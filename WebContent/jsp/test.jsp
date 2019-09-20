@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<% Dao dao = new Dao();
+<% testdao dao = new testdao();
 	dao.select();
 %>
 </body>
